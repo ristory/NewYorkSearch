@@ -1,0 +1,23 @@
+body{
+    background-color: white;
+}
+
+.navbar-dark{
+    background-color:blue;
+    color: white;
+    text-align: center;
+    align-items: center;
+}
+
+.navbar-brand{
+    text-align: center;  
+}
+
+.container{
+    margin-top: 20px;
+    width: auto;
+    height: auto;
+    border: lightgray 1px solid;
+    padding: 10px;
+    border-radius: 10px;
+}
